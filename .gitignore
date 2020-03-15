@@ -1,0 +1,5 @@
+logs
+Gemfile.lock
+
+git rm Gemfile.lock
+git rm logs
