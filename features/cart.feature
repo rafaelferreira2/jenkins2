@@ -5,6 +5,7 @@ Funcionalidade: Adicionar ao carrinho
     Posso adicionar item no carrinho
     Para que eu possa ver os itens que desejo comprar
 
+    @compra
     Cenario: Adicionar ao carrinho
 
         Dado que encontrei o "iPhone XR" no catálogo
